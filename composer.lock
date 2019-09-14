@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "0bdd6ee48aae476ff191a93ff8f883fa",
+    "content-hash": "46abcd76d337cb25f68683cefa826b75",
     "packages": [
         {
             "name": "aura/intl",
@@ -54,16 +54,16 @@
         },
         {
             "name": "cakephp/authentication",
-            "version": "1.1.2",
+            "version": "1.1.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/cakephp/authentication.git",
-                "reference": "eaae8b074f10dbe594756d7258dc283ed3d0b0e9"
+                "reference": "72c26cf4f643372101dcc871309f1054b9f595c4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/cakephp/authentication/zipball/eaae8b074f10dbe594756d7258dc283ed3d0b0e9",
-                "reference": "eaae8b074f10dbe594756d7258dc283ed3d0b0e9",
+                "url": "https://api.github.com/repos/cakephp/authentication/zipball/72c26cf4f643372101dcc871309f1054b9f595c4",
+                "reference": "72c26cf4f643372101dcc871309f1054b9f595c4",
                 "shasum": ""
             },
             "require": {
@@ -74,7 +74,7 @@
             "require-dev": {
                 "cakephp/cakephp": "^3.7",
                 "cakephp/cakephp-codesniffer": "^3.0",
-                "firebase/php-jwt": "~4.0",
+                "firebase/php-jwt": "~5.0",
                 "phpunit/phpunit": "^5.7.14|^6.0"
             },
             "suggest": {
@@ -108,7 +108,7 @@
                 "cakephp",
                 "middleware"
             ],
-            "time": "2019-03-17T01:48:32+00:00"
+            "time": "2019-09-09T14:11:48+00:00"
         },
         {
             "name": "cakephp/cakephp",
